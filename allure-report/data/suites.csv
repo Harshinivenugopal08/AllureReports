@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Test to verify that user can log in with valid credentials","9180","setup","DemoTest","Wed Mar 12 12:14:03 IST 2025","passed","Wed Mar 12 12:14:12 IST 2025","allure.allure","Checkout","allure.allure","setup"
